@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/umbracoDoodle.Web/.vs/umbracoDoodle.Web
+/umbracoDoodle.Web/App_Data
+/umbracoDoodle.Web/bin
+/umbracoDoodle.Web/obj/Debug
+/umbracoDoodle.Web/Umbraco
+/umbracoDoodle.Web/packages
+/umbracoDoodle.Web/App_Start
+/umbracoDoodle.Web/fonts
+/umbracoDoodle.Web/Controllers
+/umbracoDoodle.Web/Scripts
