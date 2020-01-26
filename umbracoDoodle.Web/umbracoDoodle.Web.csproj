@@ -289,7 +289,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="App_Data\Models\models.generated.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
@@ -376,6 +375,8 @@
     <Content Include="Views\Partials\Grid\Bootstrap3-Fluid.cshtml" />
     <Content Include="Views\home.cshtml" />
     <Content Include="Views\master.cshtml" />
+    <Content Include="Views\Partials\navigation.cshtml" />
+    <Content Include="Views\Partials\footer.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
